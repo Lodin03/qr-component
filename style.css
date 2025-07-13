@@ -41,6 +41,7 @@ body {
 
 .footer {
   padding-top: 2rem;
+  text-align: center;
 }
 
 @media (min-width: 768px) {
